@@ -1,1 +1,1 @@
-
+This C code provides a simple inventory management system for a small shop using only arrays, loops, and conditionals, which fits beginner C programming curriculum requirements. It allows users to add up to 10 products, each with their own ID, name, quantity in stock, and price. The program is menu-driven, enabling users to repeatedly choose between adding products, displaying all entered products, calculating total inventory value, finding products with highest and lowest stock value, and searching by product ID.
